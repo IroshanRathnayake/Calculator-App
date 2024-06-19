@@ -19,7 +19,7 @@ function insertOperator(operator) {
     alert("Please enter a valid number.");
     return;
   }
-
+  
   switch (operator) {
     case "+":
       calculateValue += inputValue;
