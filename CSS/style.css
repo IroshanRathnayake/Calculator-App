@@ -1,0 +1,24 @@
+.calculator {
+    max-width: 350px;
+    margin: auto;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .display {
+    font-size: 2rem;
+    background: #e9ecef;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: right;
+    margin-bottom: 15px;
+  }
+  .btn-calc {
+    width: 75px;
+    height: 75px;
+    font-size: 1.5rem;
+  }
+  .btn-equal, .btn-clear {
+    width: 100%;
+  }
